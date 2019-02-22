@@ -31,3 +31,16 @@ A continuación se definen las entidades, elementos y sub-elementos de datos CER
    :maxdepth: 1
 
    cerif_xml_publication_entity
+   cerif_xml_product_entity
+   cerif_xml_patent_entity
+
+   cerif_xml_person_entity
+   cerif_xml_organisation_entity
+
+   cerif_xml_project_entity
+   cerif_xml_funding_entity
+   
+   cerif_xml_service_entity
+   cerif_xml_equipment_entity
+   
+   cerif_xml_event_entity
