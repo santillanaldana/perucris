@@ -1,5 +1,6 @@
 2.1 Publication (Publicación académica)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 +--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Descripción        | Una publicación académica es el resultado de actividades de investigación, cuyo objetivo es aportar al desarrollo de un área científica, técnica o humanística determinada.                        |
 |                    | Este tipo de publicación se suele difundir a través de artículos, libros, actas de congresos, etc. (Portal de investigación, 2019).                                                                |
