@@ -26,3 +26,8 @@ Las entidades que aborda esta guía son las siguientes:
 * Event
 
 A continuación se definen las entidades, elementos y sub-elementos de datos CERIF para el intercambio de datos entre los sistemas CRIS individuales y la plataforma del Proyecto #PerúCRIS. El importante resaltar que el uso de los elementos de datos y los vocabularios definidos es obligatorio, es decir, no se pueden utilizar otros elementos de datos o vocabularios para los datos CERIF XML expuestos por los sistemas CRIS a la plataforma del Proyecto #PerúCRIS. Los vocabularios proceden de fuentes externas relevantes; y en algunos casos se basan en la semántica CERIF 1.5. Finalmente es importante destacar que es posible crear extensiones en la fase de revisión de estas directrices.
+
+.. toctree::
+   :maxdepth: 1
+
+   cerif_xml_publication_entity
