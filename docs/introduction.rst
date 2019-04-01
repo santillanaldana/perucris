@@ -1,6 +1,6 @@
 1. Introducción
 ---------------
-Estas directrices describen el perfil CERIF-XML para que los sistemas de gestión de información científica (CRIS) implementados en el Perú sean compatibles con la plataforma digital de la Red Nacional de Información en Ciencia, Tecnología e Innovación - Proyecto #PerúCRIS. La presente guía está basada y es completamente compatible con el documento OpenAIRE Guidelines for CRIS Managers 1.1 . Incluye definiciones para cada uno de las entidades y elementos de información, así como la referencia a las taxonomías y vocabularios controlados a ser empleados. Además la guía diferencia campos obligatorios y recomendados para diversos tipos de instituciones, tales como universidades, institutos de investigación y entidades financiadoras.
+Estas directrices describen el perfil CERIF-XML para que los sistemas de gestión de información científica (CRIS) implementados en el Perú sean compatibles con la plataforma digital de la Red Nacional de Información en Ciencia, Tecnología e Innovación - Proyecto #PerúCRIS. La presente guía está basada y es completamente compatible con el documento OpenAIRE Guidelines for CRIS Managers 1.1 <https://openaire-guidelines-for-cris-managers.readthedocs.io/en/v1.1.1/>. Incluye definiciones para cada uno de las entidades y elementos de información, así como la referencia a las taxonomías y vocabularios controlados a ser empleados. Además la guía diferencia campos obligatorios y recomendados para diversos tipos de instituciones, tales como universidades, institutos de investigación y entidades financiadoras.
 
 1.1 Objetivo
 ~~~~~~~~~~~~
@@ -8,7 +8,7 @@ Las directrices proporcionan orientación para que los administradores de CRIS e
 
 1.2 CERIF-CRIS
 ~~~~~~~~~~~~~~
-El Common European Research Information Format (CERIF) es un modelo de datos estándar de información sobre investigación y una recomendación de la Unión Europea a sus Estados miembros. La Unión Europea transfirió el cuidado y la custodia del CERIF a euroCRIS < http://www.eurocris.org>, una organización, sin fines de lucro, dedicada a la interoperabilidad de los CRIS. Además de un modelo de dominio y un modelo de datos formal, CERIF incluye un mecanismo para construir perfiles XML (subconjuntos especializados) para escenarios específicos de intercambio de información. El perfil CERIF del Proyecto #PerúCRIS admite la recolección e importación de metadatos desde otros sistemas CRIS.
+El Common European Research Information Format (CERIF) es un modelo de datos estándar de información sobre investigación y una recomendación de la Unión Europea a sus Estados miembros. La Unión Europea transfirió el cuidado y la custodia del CERIF a euroCRIS <http://www.eurocris.org>, una organización, sin fines de lucro, dedicada a la interoperabilidad de los CRIS. Además de un modelo de dominio y un modelo de datos formal, CERIF incluye un mecanismo para construir perfiles XML (subconjuntos especializados) para escenarios específicos de intercambio de información. El perfil CERIF del Proyecto #PerúCRIS admite la recolección e importación de metadatos desde otros sistemas CRIS.
 
 1.3 Sugerencias y comentarios
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
