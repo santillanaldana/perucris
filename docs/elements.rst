@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------
 El CERIF es un modelo integral para el ámbito de la investigación científica. Sólo un segmento de esa información es relevante para el Proyecto #PerúCRIS. Por ejemplo, las publicaciones, los productos (incluidos los conjuntos de datos de investigación y los programas informáticos) y los eventos entran en el ámbito del perfil del Proyecto #PerúCRIS, mientras que los datos sobre premiaciones o direcciones domiciliarias no necesariamente. El siguiente diagrama muestra el segmento del modelo CERIF que se está utilizando en esta versión de la Guía #PerúCRIS:
 
-.. image:: images/data_model_cerif_openaire.png
+.. image:: data_model_cerif_openaire.png
 
 Figura 1 - Entidades CERIF XML usadas adoptadas por el Proyecto #PerúCRIS 
 Fuente: OPENAIRE, 2019.
